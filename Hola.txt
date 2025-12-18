@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Hello wordl 123");
 print("come ti chiami");
 =======
 print("Hello wordl");
 >>>>>>> parent of b9bec3c (Update Hola.txt)
+=======
+print("Hello wordl 123");
+>>>>>>> parent of 7b6856a (Update Hola.txt)
